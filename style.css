@@ -97,4 +97,9 @@ footer {
     .story, .stat, .gallery img {
         flex: 1 1 100%;
     }
+    .img{
+        margin: 0 0 10px 0;
+        width:100%;
+        max-width:150px;
+    }
 }
